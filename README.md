@@ -22,7 +22,7 @@ content.
 Ensure Python 3.x is installed on your system.
 ### Steps
 1. Clone the repository:
-git clone https://github.com/username/TextSummarizationTool.git
+git clone (https://github.com/Bhupender2004/task-1-text-summarization-tool/blob/main/text_summarization_tool.py)
 2. Navigate to the project directory:
 cd TextSummarizationTool
 3. Install the required dependencies:
